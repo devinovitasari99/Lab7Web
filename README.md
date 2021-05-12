@@ -11,4 +11,8 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 
 Untuk menjalankan web server dari menu XAMPP Control
 
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/Capture.PNG)
+
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL : http://localhost/lab7_php_dasar/
+
 ![alt text](
