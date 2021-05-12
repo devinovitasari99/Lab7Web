@@ -19,4 +19,76 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 
 PHP Dasar Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
 
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%201-2.PNG)
+
+Output
+
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss2.PNG)
+
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss3.PNG)
+
+Membuat Form Input
+
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%204.PNG)
+
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss4.PNG)
+
+Membuat Operator
+
+Input
+
+![alt text](
+
+Output
+
+![alt text](
+
+Membuat Kondisi IF
+
+Input
+
+![alt text](
+
+Output
+
+![alt text](
+
+Membuat Kondisi Switch
+
+input
+
+![alt text](
+
+output
+
+![alt text](
+
+Membuat Perulangan For
+
+input
+
+![alt text](
+
+output
+
+![alt text](
+
+Membuat Perulangan While
+
+Input
+
+![alt text](
+
+output
+
+![alt text](
+
+Membuat Perulangan Dowhile
+
+input
+
+![alt text](
+
+output
+
 ![alt text](
