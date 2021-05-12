@@ -15,4 +15,8 @@ Untuk menjalankan web server dari menu XAMPP Control
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL : http://localhost/lab7_php_dasar/
 
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/Capture%202.PNG)
+
+PHP Dasar Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
+
 ![alt text](
