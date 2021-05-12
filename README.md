@@ -21,8 +21,6 @@ PHP Dasar Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemu
 
 ![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%201-2.PNG)
 
-Output
-
 ![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss2.PNG)
 
 ![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss3.PNG)
@@ -35,60 +33,44 @@ Membuat Form Input
 
 Membuat Operator
 
-Input
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%20operator.PNG)
 
-![alt text](
-
-Output
-
-![alt text](
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20operator.PNG)
 
 Membuat Kondisi IF
 
-Input
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%20Kondisi%20IF.PNG)
 
-![alt text](
-
-Output
-
-![alt text](
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20Kondisi%20IF.PNG)
 
 Membuat Kondisi Switch
 
-input
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%20Kondisi%20Switch.PNG)
 
-![alt text](
-
-output
-
-![alt text](
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/SS%20Kondisi%20Switch.PNG)
 
 Membuat Perulangan For
 
-input
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%20perulangan%20for.PNG)
 
-![alt text](
-
-output
-
-![alt text](
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20perulangan%20for.PNG)
 
 Membuat Perulangan While
 
-Input
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%20perulangan%20while.PNG)
 
-![alt text](
-
-output
-
-![alt text](
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20perulangan%20while.PNG)
 
 Membuat Perulangan Dowhile
 
-input
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%20perulangan%20Dowhile.PNG)
+
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/SS%20Perulangan%20Dowhile.PNG)
+
+# Jawaban Tugas
 
 ![alt text](
 
-output
+![alt text](
 
 ![alt text](
