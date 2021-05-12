@@ -69,8 +69,8 @@ Membuat Perulangan Dowhile
 
 # Jawaban Tugas
 
-![alt text](
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%20tugas%201.PNG)
 
-![alt text](
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20cod%20tugas%202.PNG)
 
-![alt text](
+![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/ss%20tugas.PNG)
