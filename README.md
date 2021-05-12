@@ -8,3 +8,7 @@ PHP adalah singkatan dari PHP Hypertext Prepocessor dan merupakan bahasa pemrogr
 Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP terlebih dahulu. Web servar yang kita gunakan adalah Apache 2 dan interpreter PHP 7.
 
 ![alt text](https://github.com/devinovitasari99/Lab7Web/blob/main/Capture%203.PNG)
+
+Untuk menjalankan web server dari menu XAMPP Control
+
+![alt text](
